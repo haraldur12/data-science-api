@@ -1,0 +1,4 @@
+flask-marshmallow==0.8.0
+flask==1.1.1
+numpy
+flask_restful 
